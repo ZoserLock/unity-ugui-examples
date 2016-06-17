@@ -1,0 +1,580 @@
+fileFormatVersion: 2
+guid: 22461cbefc17ca84a9aff3360cfd56f7
+timeCreated: 1465565330
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TEX_UI_atlas_0
+    21300002: TEX_UI_atlas_1
+    21300004: TEX_UI_atlas_2
+    21300006: TEX_UI_atlas_3
+    21300008: TEX_UI_atlas_4
+    21300010: TEX_UI_atlas_5
+    21300012: TEX_UI_atlas_6
+    21300014: TEX_UI_atlas_7
+    21300016: TEX_UI_atlas_8
+    21300018: TEX_UI_atlas_9
+    21300020: TEX_UI_atlas_10
+    21300022: TEX_UI_atlas_11
+    21300024: TEX_UI_atlas_12
+    21300026: TEX_UI_atlas_13
+    21300028: TEX_UI_atlas_14
+    21300030: TEX_UI_atlas_15
+    21300032: TEX_UI_atlas_16
+    21300034: TEX_UI_atlas_17
+    21300036: TEX_UI_atlas_18
+    21300038: TEX_UI_atlas_19
+    21300040: TEX_UI_atlas_20
+    21300042: TEX_UI_atlas_21
+    21300044: TEX_UI_atlas_22
+    21300046: TEX_UI_atlas_23
+    21300048: TEX_UI_atlas_24
+    21300050: TEX_UI_atlas_25
+    21300052: TEX_UI_atlas_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TEX_UI_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 816
+        width: 166
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 28, y: 35, z: 33, w: 31}
+      outline:
+      - - {x: 74, y: 85}
+        - {x: -77, y: 85}
+        - {x: -83, y: 77}
+        - {x: -83, y: -75}
+        - {x: -79, y: -80}
+        - {x: -72, y: -85}
+        - {x: 70, y: -85}
+        - {x: 83, y: -79}
+        - {x: 83, y: 77}
+    - name: TEX_UI_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 756
+        width: 165
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82.5, y: 108}
+        - {x: 71.5, y: 116}
+        - {x: -70.5, y: 116}
+        - {x: -75.5, y: 114}
+        - {x: -80.5, y: 109}
+        - {x: -82.5, y: 104}
+        - {x: -82.5, y: -104}
+        - {x: -81.5, y: -108}
+        - {x: -70.5, y: -116}
+        - {x: 67.5, y: -116}
+        - {x: 73.5, y: -115}
+        - {x: 82.5, y: -104}
+    - name: TEX_UI_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 914
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 38}
+        - {x: -38, y: -33}
+        - {x: -32, y: -38}
+        - {x: 35, y: -38}
+        - {x: 38, y: -37}
+        - {x: 38, y: 38}
+    - name: TEX_UI_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 911
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 38}
+        - {x: -38.5, y: -35}
+        - {x: -34.5, y: -38}
+        - {x: 38.5, y: -38}
+        - {x: 38.5, y: 38}
+    - name: TEX_UI_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 912
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 38}
+        - {x: -38, y: 33}
+        - {x: -38, y: -34}
+        - {x: -33, y: -38}
+        - {x: 38, y: -38}
+        - {x: 38, y: 38}
+    - name: TEX_UI_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 871
+        width: 120
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: 59.5}
+        - {x: -60, y: -59.5}
+        - {x: 56, y: -59.5}
+        - {x: 60, y: -55.5}
+        - {x: 60, y: 58.5}
+        - {x: 59, y: 59.5}
+    - name: TEX_UI_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 824
+        width: 121
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.5, y: 83.5}
+        - {x: -60.5, y: -82.5}
+        - {x: -59.5, y: -83.5}
+        - {x: 57.5, y: -83.5}
+        - {x: 60.5, y: -80.5}
+        - {x: 60.5, y: 83.5}
+    - name: TEX_UI_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 821
+        width: 202
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 38}
+        - {x: -101, y: 36}
+        - {x: -101, y: -38}
+        - {x: 101, y: -38}
+        - {x: 101, y: 38}
+    - name: TEX_UI_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 633
+        width: 169
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 31, z: 29, w: 34}
+      outline:
+      - - {x: 74.5, y: 83.5}
+        - {x: -74.5, y: 83.5}
+        - {x: -84.5, y: 78.5}
+        - {x: -84.5, y: -77.5}
+        - {x: -83.5, y: -78.5}
+        - {x: -75.5, y: -83.5}
+        - {x: 72.5, y: -83.5}
+        - {x: 82.5, y: -76.5}
+        - {x: 84.5, y: -70.5}
+        - {x: 84.5, y: 71.5}
+    - name: TEX_UI_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 735
+        width: 204
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99, y: 38.5}
+        - {x: -102, y: 31.5}
+        - {x: -102, y: -38.5}
+        - {x: 102, y: -38.5}
+        - {x: 102, y: 38.5}
+    - name: TEX_UI_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 682
+        width: 166
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 61}
+        - {x: -83, y: 60}
+        - {x: -83, y: -50}
+        - {x: -71, y: -61}
+        - {x: 70, y: -61}
+        - {x: 83, y: -54}
+        - {x: 83, y: 53}
+        - {x: 77, y: 61}
+    - name: TEX_UI_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 449
+        width: 68
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 143}
+        - {x: -22, y: 135}
+        - {x: -34, y: 121}
+        - {x: -34, y: -140}
+        - {x: -21, y: -143}
+        - {x: 34, y: -143}
+        - {x: 34, y: 143}
+    - name: TEX_UI_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 636
+        width: 285
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -131.5, y: 34.5}
+        - {x: -142.5, y: 16.5}
+        - {x: -142.5, y: -33.5}
+        - {x: -139.5, y: -34.5}
+        - {x: 137.5, y: -34.5}
+        - {x: 142.5, y: -33.5}
+        - {x: 142.5, y: 20.5}
+        - {x: 138.5, y: 34.5}
+    - name: TEX_UI_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 608
+        width: 324
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150, y: 18}
+        - {x: -156, y: 16}
+        - {x: -162, y: 9}
+        - {x: -162, y: -12}
+        - {x: -159, y: -18}
+        - {x: 158, y: -18}
+        - {x: 162, y: -16}
+        - {x: 162, y: 11}
+        - {x: 160, y: 18}
+    - name: TEX_UI_atlas_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 324
+        width: 70
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 142.5}
+        - {x: -35, y: -141.5}
+        - {x: -34, y: -142.5}
+        - {x: 16, y: -142.5}
+        - {x: 35, y: -130.5}
+        - {x: 35, y: 128.5}
+        - {x: 16, y: 142.5}
+    - name: TEX_UI_atlas_15
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 530
+        width: 286
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -143, y: 34}
+        - {x: -143, y: -22}
+        - {x: -142, y: -27}
+        - {x: -133, y: -34}
+        - {x: 135, y: -34}
+        - {x: 138, y: -19}
+        - {x: 143, y: -14}
+        - {x: 143, y: 34}
+    - name: TEX_UI_atlas_16
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 564
+        width: 325
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -162.5, y: 18}
+        - {x: -162.5, y: -18}
+        - {x: 152.5, y: -18}
+        - {x: 162.5, y: -11}
+        - {x: 162.5, y: 18}
+    - name: TEX_UI_atlas_17
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 516
+        width: 325
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -162.5, y: 18.5}
+        - {x: -162.5, y: -17.5}
+        - {x: 162.5, y: -17.5}
+        - {x: 162.5, y: 18.5}
+    - name: TEX_UI_atlas_18
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 426
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 36.5}
+        - {x: -36.5, y: 27.5}
+        - {x: -36.5, y: -22.5}
+        - {x: -31.5, y: -36.5}
+        - {x: 21.5, y: -36.5}
+        - {x: 36.5, y: -21.5}
+        - {x: 36.5, y: 16.5}
+        - {x: 24.5, y: 36.5}
+    - name: TEX_UI_atlas_19
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 439
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24.5}
+        - {x: -24, y: -24.5}
+        - {x: 18, y: -24.5}
+        - {x: 24, y: -22.5}
+        - {x: 24, y: 16.5}
+        - {x: 20, y: 24.5}
+    - name: TEX_UI_atlas_20
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 439
+        width: 105
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 25}
+        - {x: -44.5, y: 24}
+        - {x: -52.5, y: 17}
+        - {x: -52.5, y: -19}
+        - {x: -47.5, y: -25}
+        - {x: 52.5, y: -25}
+        - {x: 52.5, y: 20}
+        - {x: 50.5, y: 25}
+    - name: TEX_UI_atlas_21
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 322
+        width: 332
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -166, y: 20.5}
+        - {x: -166, y: -20.5}
+        - {x: 166, y: -20.5}
+        - {x: 166, y: 20.5}
+    - name: TEX_UI_atlas_22
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 260
+        width: 121
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.5, y: 61}
+        - {x: -60.5, y: -33}
+        - {x: -36.5, y: -61}
+        - {x: 52.5, y: -61}
+        - {x: 60.5, y: -34}
+        - {x: 60.5, y: 61}
+    - name: TEX_UI_atlas_23
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 263
+        width: 124
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 60.5}
+        - {x: -61, y: 50.5}
+        - {x: -61, y: -29.5}
+        - {x: -49, y: -60.5}
+        - {x: 39, y: -60.5}
+        - {x: 62, y: -28.5}
+        - {x: 62, y: 55.5}
+        - {x: 46, y: 60.5}
+    - name: TEX_UI_atlas_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 139
+        width: 146
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 26, y: 30, z: 30, w: 29}
+      outline:
+      - - {x: -67, y: 74.5}
+        - {x: -73, y: 66.5}
+        - {x: -73, y: -67.5}
+        - {x: -68, y: -74.5}
+        - {x: 72, y: -74.5}
+        - {x: 73, y: -71.5}
+        - {x: 73, y: 68.5}
+        - {x: 66, y: 74.5}
+    - name: TEX_UI_atlas_25
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 139
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 26, y: 25, z: 24, w: 27}
+      outline:
+      - - {x: -65.5, y: 74.5}
+        - {x: -74.5, y: 64.5}
+        - {x: -74.5, y: -69.5}
+        - {x: -68.5, y: -74.5}
+        - {x: 71.5, y: -74.5}
+        - {x: 74.5, y: -68.5}
+        - {x: 74.5, y: 68.5}
+        - {x: 67.5, y: 74.5}
+    - name: TEX_UI_atlas_26
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 133
+        width: 602
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 301, y: 13}
+        - {x: 296, y: 24}
+        - {x: 288, y: 32}
+        - {x: 277, y: 37}
+        - {x: -279, y: 37}
+        - {x: -286, y: 34}
+        - {x: -296, y: 25}
+        - {x: -300, y: 18}
+        - {x: -301, y: 16}
+        - {x: -301, y: -17}
+        - {x: -297, y: -25}
+        - {x: -288, y: -33}
+        - {x: -279, y: -37}
+        - {x: 278, y: -37}
+        - {x: 287, y: -33}
+        - {x: 296, y: -24}
+        - {x: 301, y: -13}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
